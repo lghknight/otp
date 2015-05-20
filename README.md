@@ -1,2 +1,2 @@
 # otp
-go lang bing for one time password(et z201)
+go lang one time pasword binding for et z201
